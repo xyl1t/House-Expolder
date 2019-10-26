@@ -1,0 +1,10 @@
+C:\Users\Marat\source\repos\OLC_CodeJamContinue\OLC_CodeJam\bin\x86\Debug\OLC_CodeJam.exe.config
+C:\Users\Marat\source\repos\OLC_CodeJamContinue\OLC_CodeJam\bin\x86\Debug\OLC_CodeJam.exe
+C:\Users\Marat\source\repos\OLC_CodeJamContinue\OLC_CodeJam\bin\x86\Debug\OLC_CodeJam.pdb
+C:\Users\Marat\source\repos\OLC_CodeJamContinue\OLC_CodeJam\obj\x86\Debug\OLC_CodeJam.csprojAssemblyReference.cache
+C:\Users\Marat\source\repos\OLC_CodeJamContinue\OLC_CodeJam\obj\x86\Debug\OLC_CodeJam.Controller.resources
+C:\Users\Marat\source\repos\OLC_CodeJamContinue\OLC_CodeJam\obj\x86\Debug\OLC_CodeJam.Properties.Resources.resources
+C:\Users\Marat\source\repos\OLC_CodeJamContinue\OLC_CodeJam\obj\x86\Debug\OLC_CodeJam.csproj.GenerateResource.cache
+C:\Users\Marat\source\repos\OLC_CodeJamContinue\OLC_CodeJam\obj\x86\Debug\OLC_CodeJam.csproj.CoreCompileInputs.cache
+C:\Users\Marat\source\repos\OLC_CodeJamContinue\OLC_CodeJam\obj\x86\Debug\OLC_CodeJam.exe
+C:\Users\Marat\source\repos\OLC_CodeJamContinue\OLC_CodeJam\obj\x86\Debug\OLC_CodeJam.pdb
